@@ -2,6 +2,12 @@ Day 1:
 - Belajar GitHub
 - Buat repo pertama
 - Masih bingung git push
-
 Insight:
 Ternyata harus sering praktik biar ngerti
+
+Day 1 (Lanjutan):
+- Belajar branch
+- Coba edit file di branch
+Insight:
+Branch itu buat eksperimen tanpa ganggu main
+
