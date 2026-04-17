@@ -1,0 +1,7 @@
+Day 1:
+- Belajar GitHub
+- Buat repo pertama
+- Masih bingung git push
+
+Insight:
+Ternyata harus sering praktik biar ngerti
